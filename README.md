@@ -1,3 +1,4 @@
+HELLO
 # Inventory Management and Demand Forecasting
 
 This repository contains a demand forecasting project aimed at optimizing inventory management using historical sales data. The developed model will help businesses maintain appropriate inventory levels, minimize stockouts and overstock situations, and enhance the overall efficiency of their supply chains.
